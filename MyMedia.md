@@ -36,4 +36,4 @@ INSERT INTO table_name (column1, column2, column3, ...)
 VALUES (value1, value2, value3, ...);
 ```
 
-(Snippet Source)[https://code.pieces.app/collections/sql]
+Snippet Source: <https://code.pieces.app/collections/sql>
