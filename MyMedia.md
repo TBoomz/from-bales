@@ -17,3 +17,9 @@ This is a table about my favor media, why I recommnend it, and who created it.
 | SoI | The Series of Inheritance is an amazing, albeit slow-paced fantasy story about dragons, their riders, and what came to be of it all. Along the lines of The Hobbit and the Lord of the Rings Trilogies with a little less meat on the bones. | Christopher Paolini
 | LotR | The Lord of the Rings & the Hobbit trilogies are some of the best and most widely referenced fantasy books to date. Almost everything we see of fantasy stems from the world Tolkien made. | J. R. R. Tolkien
 
+---
+
+### Favorite Quotes
+A few of my favorite quotes
+> “The moment you doubt whether you can fly, you cease for ever to be able to do it.” ― *J. M. Barrie, Peter Pan*
+> “When you compare the sorrows of real life to the pleasures of the imaginary one, you will never want to live again, only to dream forever.” ― *Alexandre Dumas, The Count of Monte Cristo*
