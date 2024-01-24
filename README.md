@@ -17,3 +17,5 @@ Given the way the "meals" are made, dishes aren't given names but have different
 There are other places to visit nearby such as:
 - Scooter's Ice Cream
 - Bonkers Playhouse
+
+[Link to My Media](MyMedia.md)
