@@ -35,3 +35,5 @@ This is SQL code snippet #7, which inserts new records into a table.
 INSERT INTO table_name (column1, column2, column3, ...)
 VALUES (value1, value2, value3, ...);
 ```
+
+(Snippet Source)[https://code.pieces.app/collections/sql]
