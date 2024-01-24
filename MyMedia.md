@@ -22,4 +22,5 @@ This is a table about my favor media, why I recommnend it, and who created it.
 ### Favorite Quotes
 A few of my favorite quotes
 > “The moment you doubt whether you can fly, you cease for ever to be able to do it.” ― *J. M. Barrie, Peter Pan*
+
 > “When you compare the sorrows of real life to the pleasures of the imaginary one, you will never want to live again, only to dream forever.” ― *Alexandre Dumas, The Count of Monte Cristo*
