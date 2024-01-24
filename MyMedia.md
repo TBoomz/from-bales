@@ -24,3 +24,14 @@ A few of my favorite quotes
 > “The moment you doubt whether you can fly, you cease for ever to be able to do it.” ― *J. M. Barrie, Peter Pan*
 
 > “When you compare the sorrows of real life to the pleasures of the imaginary one, you will never want to live again, only to dream forever.” ― *Alexandre Dumas, The Count of Monte Cristo*
+
+---
+
+### Code Snippet
+
+This is SQL code snippet #7, which inserts new records into a table.
+
+```
+INSERT INTO table_name (column1, column2, column3, ...)
+VALUES (value1, value2, value3, ...);
+```
